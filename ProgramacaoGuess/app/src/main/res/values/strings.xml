@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Guess</string>
-    <string name="text_buttonsingle_POR">Um Jogador</string>
-    <string name="text_buttonmulti_POR">Multi Jogadores</string>
-    <string name="text_buttonHowPlay_POR">Como Jogar</string>
-    <string name="text_byttonOptions_POR">Opções</string>
-</resources>
