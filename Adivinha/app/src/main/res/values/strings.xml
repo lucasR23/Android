@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adivinha</string>
+    <string name="MainText">Escolha um Numero de 0 a 10</string>
+    <string name="TextNumber">Nenhum Numero</string>
+</resources>

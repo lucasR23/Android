@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="teste">Teste</string>
+
+    <!-- Dimencoes-->
+    <Dimen name="testeDimen">50sp</Dimen>
+</resources>
