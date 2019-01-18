@@ -30,6 +30,7 @@
         app:layout_constraintHorizontal_bias="0.4"
         app:layout_constraintStart_toStartOf="@+id/txt_email"
         app:layout_constraintTop_toBottomOf="@+id/txt_email"
+        android:theme="@style/editTextStandard"
         android:autofillHints="username"/>
 
     <TextView
@@ -51,6 +52,7 @@
         app:layout_constraintEnd_toEndOf="@+id/editText_email"
         app:layout_constraintStart_toStartOf="@+id/txt_password"
         app:layout_constraintTop_toBottomOf="@+id/txt_password"
+        android:theme="@style/editTextStandard"
         android:autofillHints="password"/>
 
     <Button
